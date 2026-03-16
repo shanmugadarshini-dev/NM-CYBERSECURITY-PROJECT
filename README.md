@@ -1,6 +1,8 @@
  NM-CYBERSECURITY-PROJECT
+ TITLE
  Replace and Modernize Legacy VPN Architectures with a Cloud-Native Zscaler Zero Trust Solution
-Overview
+ 
+Overview:
 
 This project focuses on replacing traditional VPN architectures with a Zero Trust security model using solutions from Zscaler. Traditional VPN systems often provide broad network access after authentication, which increases the risk of security threats and unauthorized lateral movement within the network.
 
