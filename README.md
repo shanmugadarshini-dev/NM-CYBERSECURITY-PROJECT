@@ -1,5 +1,6 @@
- NM-CYBERSECURITY-PROJECT
- TITLE
+ #NM-CYBERSECURITY-PROJECT
+
+ TITLE:
  Replace and Modernize Legacy VPN Architectures with a Cloud-Native Zscaler Zero Trust Solution
  
 Overview:
